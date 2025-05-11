@@ -5,11 +5,14 @@ If you are using Wazuh for Security Monitoring, you may heard about Telegram Ale
 <center>
 
 ![Alert With Log](screenshots/alert_with_log.png)
+
 **Alert with log**
 
 ---
+
 ![Alert Without Log](screenshots/alert_no_log.png)
-**Alert without**
+
+**Alert without log**
 
 ---
 
